@@ -1,0 +1,1 @@
+A simple movie app project to search for movies.
